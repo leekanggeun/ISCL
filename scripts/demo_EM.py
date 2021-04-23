@@ -79,7 +79,7 @@ def main():
             ssim_tot += ssim(test_label[i], pred[i], data_range=255.0)
         cv_psnr.append(psnr_tot/len(test_index))
         cv_ssim.append(ssim_tot/len(test_index))
-    print("%d-fold cross validation result PSNR: %f, SSIM %f" % (args.kfold, sum(cv_psnr)/4, sum(cv_ssim)/4))
+    print("%d-fold cross validation result PSNR: %f, SSIM %f" % (args.kfold, sum(cv_psnr)/args.kfold, sum(cv_ssim)/args.kfold))
 
 if __name__ == '__main__':
     main()
