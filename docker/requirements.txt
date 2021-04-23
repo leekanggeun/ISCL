@@ -1,0 +1,51 @@
+# Default
+numpy
+scipy
+pathlib2
+tqdm
+h5py
+pydicom
+PyQt5
+pydot
+ipympl
+pyyaml
+natsort
+hdf5storage
+
+# Image
+Pillow
+opencv-python
+scikit-image
+scikit-learn
+albumentations
+bm3d
+libtiff
+
+# Tabular
+pandas
+pandarallel
+
+# Visualization
+seaborn
+matplotlib
+altair
+plotly
+dash
+jupyter-dash
+
+# Jupyter Notebook
+jupyterlab
+ipywidgets
+widgetsnbextension
+
+# Tensor Utils
+tensorflow-datasets
+tensorflow-addons
+
+
+# Utils
+setproctitle
+hydra
+natsort
+nd2reader
+imblearn
