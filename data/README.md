@@ -3,7 +3,7 @@ The proposed method ISCL was verified on two datasets (i.e., CT and EM)
 1. Normal-dose CT and Low-dose CT from [this site](https://www.aapm.org/grandchallenge/LowDoseCT/)
 - A library of CT image and projection data is publicly available [here](https://www.cancerimagingarchive.net/)
 
-You can download the same dataset using follow subject ID:
+You can download the same dataset using follow subject IDs:
 * Abdominal
     * Subject IDs: 
         * Training
