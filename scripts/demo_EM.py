@@ -3,7 +3,7 @@ import tensorflow_addons as tfa
 from skimage.metrics import peak_signal_noise_ratio as psnr
 from skimage.metrics import structural_similarity as ssim
 import sys
-sys.path.append('/home/Alexandrite/leekanggeun/CVPR/ISCL/')
+sys.path.append('ISCL/')
 from utils.image_tool import *
 from utils.parser import parse_args
 from models.trainer import Trainer

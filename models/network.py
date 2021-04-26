@@ -2,7 +2,7 @@ import tensorflow as tf
 from tensorflow.keras import layers
 from tensorflow.keras import Model
 import sys
-sys.path.append('/home/Alexandrite/leekanggeun/CVPR/ISCL/')
+sys.path.append('ISCL/')
 from utils.normalization import BIN, IN, BN
 
 class Res_Block(Model):

@@ -3,7 +3,7 @@ from tensorflow.keras import layers
 from tensorflow.keras import Model
 import tensorflow_addons as tfa
 import sys
-sys.path.append('/home/Alexandrite/leekanggeun/CVPR/ISCL/')
+sys.path.append('ISCL/')
 from models.network import Generator, Discriminator, Extractor
 from utils.metrics import PSNR, SSIM
 
