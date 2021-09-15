@@ -1,5 +1,5 @@
 # ISCL: Interdependent Self-Cooperative Learning for Unpaired Image Denoising #
-This is an official tensorflow implementation of the [paper](https://arxiv.org/abs/2102.09858) by [Kanggeun Lee](https://scholar.google.com/citations?hl=ko&user=OvRs1iwAAAAJ) and [Won-Ki Jeong](https://scholar.google.com/citations?hl=ko&user=bnyKqkwAAAAJ).
+This is an official tensorflow implementation of the [paper](https://ieeexplore.ieee.org/document/9478781) by [Kanggeun Lee](https://scholar.google.com/citations?hl=ko&user=OvRs1iwAAAAJ) and [Won-Ki Jeong](https://scholar.google.com/citations?hl=ko&user=bnyKqkwAAAAJ).
 
 **IEEE Transactions on Medical Imaging** (**Under review**)
 ![alt text](figure/Fig_2.png)
@@ -40,12 +40,6 @@ docker run --gpus '"device=0,1,2,3"' ~~
 ```
 
 ## **Citation** ##
-Please use below bibtex if you cite this paper or use this code.
 
-```
-@misc{lee2021iscl, 
-  title={ISCL: Interdependent Self-Cooperative Learning for Unpaired Image Denoising},
-  url={https://arxiv.org/abs/2102.09858},
-  author={Lee, Kanggeun and Jeong, Won-Ki},
-  year={2021}}
-```
+This article has been accepted for publication in IEEE Transactions on  Medical  Imaging. This is the author’s version which has not beenfully edited and content may change prior to final publication.
+
