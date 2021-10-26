@@ -42,10 +42,10 @@ docker run --gpus '"device=0,1,2,3"' ~~
 ## **Citation** ##
 
 This article has been accepted for publication in IEEE Transactions on  Medical  Imaging. This is the author’s version which has not beenfully edited and content may change prior to final publication.
-
+```
 @article{Lee_2021,
 	doi = {10.1109/tmi.2021.3096142},
-	url = {https://doi.org/10.1109%2Ftmi.2021.3096142},
+	url = {https://doi.org/10.1109/TMI.2021.3096142},
 	year = 2021,
 	publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
 	pages = {1--1},
@@ -53,3 +53,4 @@ This article has been accepted for publication in IEEE Transactions on  Medical 
 	title = {{ISCL}: Interdependent Self-Cooperative Learning for Unpaired Image Denoising},
 	journal = {{IEEE} Transactions on Medical Imaging}
 }
+```
