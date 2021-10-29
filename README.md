@@ -44,15 +44,14 @@ docker run --gpus '"device=0,1,2,3"' ~~
 This article has been accepted for publication in IEEE Transactions on  Medical  Imaging. This is the author’s version which has not beenfully edited and content may change prior to final publication.
 ```
 @article{Lee_2021,
-	doi = {10.1109/tmi.2021.3096142},
-	url = {https://doi.org/10.1109/TMI.2021.3096142},
+	title = {{ISCL}: Interdependent Self-Cooperative Learning for Unpaired Image Denoising},
+	author = {Kanggeun Lee and Won-Ki Jeong},
+	journal = {{IEEE} Transactions on Medical Imaging},
 	year = {2021},
 	volume = {40},
 	number = {11},
-	pages = {3238--3248}
-	publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
-	author = {Kanggeun Lee and Won-Ki Jeong},
-	title = {{ISCL}: Interdependent Self-Cooperative Learning for Unpaired Image Denoising},
-	journal = {{IEEE} Transactions on Medical Imaging}
+	pages = {3238--3248},
+	url = {https://doi.org/10.1109/TMI.2021.3096142},
+	publisher = {Institute of Electrical and Electronics Engineers ({IEEE})}
 }
 ```
