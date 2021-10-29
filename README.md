@@ -46,9 +46,11 @@ This article has been accepted for publication in IEEE Transactions on  Medical 
 @article{Lee_2021,
 	doi = {10.1109/tmi.2021.3096142},
 	url = {https://doi.org/10.1109/TMI.2021.3096142},
-	year = 2021,
+	year = {2021},
+	volume = {40},
+	number = {11},
+	pages = {3238--3248}
 	publisher = {Institute of Electrical and Electronics Engineers ({IEEE})},
-	pages = {1--1},
 	author = {Kanggeun Lee and Won-Ki Jeong},
 	title = {{ISCL}: Interdependent Self-Cooperative Learning for Unpaired Image Denoising},
 	journal = {{IEEE} Transactions on Medical Imaging}
